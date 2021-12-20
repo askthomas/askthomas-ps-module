@@ -22,7 +22,7 @@
     1.4 - 2021-11-20, Changed to Function
 #>
 
-function FunctionName {
+function Set-wallpaper {
    param (
       [string]$wallpaper = "C:\Users\ThomasLjunggren\OneDrive - Visolit\Pictures\Wallpapers\pexels-andy-vu-3244513.jpg"
    )
